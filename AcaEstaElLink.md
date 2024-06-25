@@ -16,4 +16,4 @@ Aplicación B (150 puntos):
 Una pantalla, responsive y pensada para ser utilizada desde un celular, donde se pueden agregar contadores, seleccionando un color al momento de agregarlo. Pueden haber hasta 10 contadores en simultáneo, haciendo scroll si se supera el alto de la pantalla. Los contadores se inicializan en 0, pueden sumar y restar, y su dominio son los numeros naturales. Los valores de estos contadores, y la presencia y color de estos debe ser persistidos en una db, y sincronizados entre todos los usuarios de la aplicación.
 
 
-https://vercel.com/new/leonels-projects-d76a575d/success?developer-id=&external-id=&redirect-url=&branch=main&deploymentUrl=tp4-1ir7gakuk-leonels-projects-d76a575d.vercel.app&projectName=tp4&s=https%3A%2F%2Fgithub.com%2FLeonel935%2Ftp4&gitOrgLimit=&hasTrialAvailable=1&totalProjects=1&slug=app-future&slug=en-US&slug=new&slug=leonels-projects-d76a575d&slug=success
+https://tp4-ivory.vercel.app/
